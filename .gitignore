@@ -1,0 +1,28 @@
+# Local-only project documents and design references (kept in the agency workspace)
+_reference/
+ASSET_REGISTER.md
+DESIGN_LOCK.md
+CLAUDE_CODE_HANDOFF.md
+
+# Archives, drafts and source dumps
+*.zip
+*.ogg
+*.psd
+*.ai
+drafts/
+
+# Tooling
+node_modules/
+*.log
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
